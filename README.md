@@ -1,3 +1,7 @@
+# Stealth Chromium
+
+Marketing Hub's maintained Clearcote fork. See [FORK.md](FORK.md) for pinned artifacts, provenance, and integration details. The upstream documentation follows.
+
 <div align="center">
 
 <img src="docs/assets/clyde.svg" alt="Clyde, the Clearcote chameleon" width="120" />

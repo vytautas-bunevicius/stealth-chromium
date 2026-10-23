@@ -1,0 +1,29 @@
+{
+  "repository": "vytautas-bunevicius/stealth-chromium",
+  "release": "hub-open-150.0.7871.114-pre.24",
+  "chromiumVersion": "150.0.7871.114",
+  "provenance": {
+    "kind": "upstream-redistribution",
+    "repository": "clearcotelabs/clearcote-browser",
+    "release": "v0.1.0-pre.24",
+    "releaseSourceCommit": "b1e622ae1fb6e3cfd497c8d9c400c3ae537cf456",
+    "signingKeyFingerprint": "CA96F185F96A693AEDB3AC1FCB00D851B7A86B0F"
+  },
+  "archives": {
+    "linux-x64": {
+      "name": "clearcote-150.0.7871.114-linux-x64.tar.xz",
+      "sha256": "92ebd3de6fbf2c1349d3eb3c210952fcdb8dc9ed35655a35297cd68431fc8ef2",
+      "originalBuildRelease": "v0.1.0-pre.23"
+    },
+    "macos-arm64": {
+      "name": "clearcote-150.0.7871.114-macos-arm64.zip",
+      "sha256": "04493686efd16015c383cba7b1e8625e2297c1861944e050d9a2435cd26bb75c",
+      "originalBuildRelease": "v0.1.0-pre.24"
+    },
+    "windows-x64": {
+      "name": "clearcote-150.0.7871.114-windows-x64.zip",
+      "sha256": "93fc03c45b931d8d82f714814318892929f44dd671b0993788332071d53f3135",
+      "originalBuildRelease": "v0.1.0-pre.23"
+    }
+  }
+}
